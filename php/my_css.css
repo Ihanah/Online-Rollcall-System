@@ -1,0 +1,81 @@
+body {
+    font-family: 微軟正黑體;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.fs-menu ul li a {
+    color: #191970;
+}
+
+.fs-menu ul.nav li {
+    color: #191970;
+    background: #ffffff;
+}
+
+.fs-block-body {
+    background: #ffffff;
+}
+
+.navbar-default {
+    font-size: 18px;
+    background: #F5F5F5;
+}
+
+.navbar.container.navbar-header a {
+    color: white;
+}
+
+.navbar-default .navbar-nav > li > a,
+.dropdown > a {
+    font-size: 17px;
+    color: #696969;
+}
+
+.navbar-default .navbar-nav > li > a,
+.dropdown > ul > li > a {
+    color: #696969;
+}
+
+.navbar-default .navbar-header > a {
+    font-size: 20px;
+    color: #696969;
+}
+
+.con {
+    width: 850px;
+}
+
+.table {
+    width: 900px;
+    box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.1);
+    /* 阴影 */
+    border-collapse: collapse;
+    /* 取消表格边框 */
+}
+
+table,
+th,
+tr,
+td {
+    border-bottom: 1px solid #dedede;
+    /* 表格横线 */
+    padding: 6px;
+    font-weight: bold;
+
+}
+
+th {
+    background-color: #628ea8;
+    color: #ffffff;
+}
+
+tr:nth-of-type(odd) {
+    background-color: #d8e6ef;
+}
+
+li {
+    line-height: 25px;
+    padding 3px 10px 3px 10px;
+    font-size: 17px;
+}
